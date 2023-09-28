@@ -7,6 +7,9 @@
 body {
   font-family: "Chivo";
   background-color: #121725;
+  text-align: center;
+  font-weight: 100;
+  font-size: 15px;
 }
 
 .image-host-bg {
@@ -19,4 +22,22 @@ body {
   top: 0;
   left: 0;
   opacity: 0.1;
+}
+
+.header {
+  color: white;
+  font-size: 1.625rem;
+  text-transform: uppercase;
+  line-height: 1.375em;
+  margin-top: 1em;
+}
+
+.text--accent {
+  color: #54e6af;
+}
+
+.description {
+  color: #c2cbe5;
+  line-height: 1.5em;
+  margin: 1.5em 0;
 }
