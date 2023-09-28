@@ -35,7 +35,7 @@ body {
   font-size: 1.625rem;
   text-transform: uppercase;
   line-height: 1.375em;
-  margin-top: 1em;
+  margin-top: 1.75em;
 }
 
 .text--accent {
@@ -46,4 +46,49 @@ body {
   color: #c2cbe5;
   line-height: 1.5em;
   margin: 1.5em 0;
+  padding: 0 1.25em;
+}
+
+.platforms {
+  display: flex;
+  gap: 2em;
+  align-items: center;
+  margin: 2em 0;
+}
+
+.platforms img {
+  width: 100%;
+  height: 100%;
+  fill: #5a668a;
+}
+
+#form input {
+  display: block;
+  width: 100%;
+  background-color: #2c344b;
+  border: none;
+  padding: 1em 2em;
+  border-radius: 2.5em;
+  margin: 1em 0;
+}
+
+::placeholder {
+  color: #979797;
+  font-weight: bold;
+}
+
+#form button {
+  display: block;
+  width: 100%;
+  padding: 1em 0;
+  border-radius: 2.5em;
+  border: none;
+  color: #121725;
+  font-weight: bold;
+  background-color: #54e6af;
+  cursor: pointer;
+}
+
+#form button:hover {
+  background-color: #b3ffe2;
 }
