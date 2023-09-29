@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./starter-code/assets/viewDesktop.png)
-![](./starter-code/assets/viewTablet.png)
-![](./starter-code/assets/viewMobile.png)
+![](./src/assets/viewDesktop.png)
+![](./src/assets/viewTablet.png)
+![](./src/assets/viewMobile.png)
 
 ### Links
 
@@ -45,21 +45,6 @@ Users should be able to:
 - Vanilla HTML/CSS/JS
 - Flexbox
 - Mobile-first workflow
-
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 ### Continued development
 First challenge where I dealt with a lot of responsive images, and I did some CSS gymnastics to make them work.
@@ -114,8 +99,6 @@ For example, this project uses three images in the background for different scre
 ```
 
 I used this same approach in two other cases where an element is in one place in small screen sizes but in another in larger screen sizes. I don't yet know if this is a good idea but I'll see how other people handle this same scenario.
-
-
 
 ## Author
 
