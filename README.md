@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: 
-- Live Site URL: https://andrew2764.github.io/pod-request-access-landing-page/
+- Live Site URL: https://pod-request-access-landing-page-kappa.vercel.app/
 
 ## My process
 
